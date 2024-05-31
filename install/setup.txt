@@ -3,14 +3,14 @@ APP_ENV=local
 APP_KEY=base64:Jv+WvmI5e+wo4xbMQdLnmI3zjlFR6pFUY2Gv42ox8W8=
 APP_DEBUG=false
 APP_LOG_LEVEL=debug
-APP_URL=http://localhost/geniuscart1.8
+APP_URL=https://geniuswallet.com
 
 DB_CONNECTION=mysql
 DB_HOST=localhost
 DB_PORT=3306
-DB_DATABASE=geniuscart
-DB_USERNAME=root
-DB_PASSWORD=
+DB_DATABASE=istacks_genuiswallet
+DB_USERNAME=istacks_mtlcom
+DB_PASSWORD=Nj~yT9xK$)fI
 
 BROADCAST_DRIVER=log
 CACHE_DRIVER=file
